@@ -7,7 +7,7 @@ export class I1 implements HttpInterceptor {
   intercept(req: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>> {
     const modified = req.clone({
       setHeaders: {
-        'Authorization': 'bearer ' + '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'
+        'Authorization': 'bearer ' + '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'
       }});
     return next.handle(modified);
   }
