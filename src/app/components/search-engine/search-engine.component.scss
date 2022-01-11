@@ -1,0 +1,13 @@
+.more {
+  cursor: pointer;
+  &:hover {
+    color: green;
+  }
+
+}
+.card {
+  padding-left: 20px;
+  padding-right: 20px;
+  transition: 0.3s;
+  min-height: 100px;
+}

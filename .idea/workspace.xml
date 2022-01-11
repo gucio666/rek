@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="989204a3-6ee4-4149-a228-d8b275e96cee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rekrutacja.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23Nkct4P00YtXSPd7g0DBiqA7D1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Users\gucma.DESKTOP-7GMTJFE\OneDrive\Pulpit\aplikacja\zadanie_rekrutacyjne\rekrutacja\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gucma.DESKTOP-7GMTJFE\OneDrive\Pulpit\aplikacja\zadanie_rekrutacyjne\rekrutacja\src\app" />
+      <recent name="C:\Users\gucma.DESKTOP-7GMTJFE\OneDrive\Pulpit\aplikacja\zadanie_rekrutacyjne\rekrutacja\src\components\single-view" />
+      <recent name="C:\Users\gucma.DESKTOP-7GMTJFE\OneDrive\Pulpit\aplikacja\zadanie_rekrutacyjne\rekrutacja\src\components\search-engine" />
+      <recent name="C:\Users\gucma.DESKTOP-7GMTJFE\OneDrive\Pulpit\aplikacja\zadanie_rekrutacyjne\rekrutacja\src\components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gucma.DESKTOP-7GMTJFE\OneDrive\Pulpit\aplikacja\zadanie_rekrutacyjne\rekrutacja\src\app\Interfaces" />
+      <recent name="C:\Users\gucma.DESKTOP-7GMTJFE\OneDrive\Pulpit\aplikacja\zadanie_rekrutacyjne\rekrutacja\src\components\single-view" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (rekrutacja)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="989204a3-6ee4-4149-a228-d8b275e96cee" name="Default Changelist" comment="" />
+      <created>1641582014803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641582014803</updated>
+      <workItem from="1641582015844" duration="49447000" />
+      <workItem from="1641767236610" duration="1410000" />
+      <workItem from="1641774386907" duration="25705000" />
+      <workItem from="1641940075450" duration="1336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1641585462362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-3440.-115.3440.1400@0.0.1920.1040" timestamp="1641585462362" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1641863381477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-3440.-115.3440.1400@0.0.1920.1040" timestamp="1641863381477" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1641939716194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-3440.-115.3440.1400@0.0.1920.1040" timestamp="1641939716194" />
+    <state x="77" y="116" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1641863309219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="77" y="116" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/-3440.-115.3440.1400@0.0.1920.1040" timestamp="1641863309219" />
+    <state x="667" y="253" width="638" height="534" key="find.popup" timestamp="1641863350207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="638" height="534" key="find.popup/0.0.1920.1040/-3440.-115.3440.1400@0.0.1920.1040" timestamp="1641863350207" />
+    <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1641939663389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/-3440.-115.3440.1400@0.0.1920.1040" timestamp="1641939663389" />
+  </component>
+</project>

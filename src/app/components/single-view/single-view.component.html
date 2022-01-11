@@ -1,0 +1,10 @@
+<div class="container">
+  <h4 class="mx-3 my-5" [routerLink]="['/']">Powrót >></h4>
+  <h5 class="mx-3">Szczegóły:</h5>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item"><strong> Nazwa repozytorium:</strong>  {{data?.node?.name}}</li>
+    <li class="list-group-item"><strong> Opis repozytorium:</strong> <br/>  {{data?.node?.description}}</li>
+    <li class="list-group-item"><strong> Właściciel repozytorium:</strong>  {{data?.node?.owner?.login}}</li>
+    <li class="list-group-item"><strong>Odwiedź repozytorium: </strong>  {{data?.node?.url}}</li>
+  </ul>
+</div>
