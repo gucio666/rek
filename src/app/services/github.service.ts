@@ -9,7 +9,7 @@ export class GithubService {
 
   constructor(private apollo: Apollo) { }
 
-  getAllCourses(search: string) {
+  getAllRepo(search: string) {
      return  this.apollo
       .watchQuery({
         query: gql`
