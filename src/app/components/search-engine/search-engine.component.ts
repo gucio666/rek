@@ -21,7 +21,7 @@ export class SearchEngineComponent implements OnInit, OnDestroy  {
 
   executeSearch(): void {
     this.myQuerySubscription = this.gitHubService
-      .getAllCourses(this.search.nativeElement.value)
+      .getAllRepo(this.search.nativeElement.value)
       .subscribe
     ( (res: Array<ListItems>) => {
      this.posts = res;
